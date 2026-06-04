@@ -12,8 +12,8 @@ const products = [
 ];
 
 for (let i = 0; i < products.length; i++) {
-    const currentProduct = products[i];
-    if (currentProduct.includes("Camiseta")){
-        console.log(currentProduct);
-    }
+  const currentProduct = products[i];
+  if (currentProduct.includes("Camiseta")) {
+    console.log(currentProduct);
+  }
 }
