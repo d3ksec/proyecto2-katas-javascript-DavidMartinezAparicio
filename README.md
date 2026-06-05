@@ -13,7 +13,7 @@ El proyecto está estructurado de la siguiente manera:
 │   ├── 📄 ejercicio01.js
 │   ├── 📄 ejercicio02.js
 │   ├── ...
-│   └── 📄 ejercicio18.js
+│   └── 📄 ejercicio42.js
 │
 ├── 📁 ejercicios-DOM/                 # Ejercicios de interacción con HTML
 │   ├── 📁 ejercicio1/
