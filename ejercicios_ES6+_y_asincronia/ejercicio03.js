@@ -45,7 +45,7 @@ const cities = [
   { isVisited: false, name: "Seul" },
 ];
 
-const citiesList = cities.map(city => {
+const citiesList = cities.map((city) => {
   if (city.isVisited === true) {
     return city.name + " (visited) ";
   } else {
